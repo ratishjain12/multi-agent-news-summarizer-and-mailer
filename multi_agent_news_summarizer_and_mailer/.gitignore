@@ -2,4 +2,4 @@
 __pycache__/
 src/**/credentials.json
 token.json
-src/**/token.json
+src/**/**/token.json
